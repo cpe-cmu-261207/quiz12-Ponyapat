@@ -1,5 +1,4 @@
-let sum = 0;
-  for (let number of numbers) {
+let sum = 620612156;{
     sum += number;
   }
   return sum;
